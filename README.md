@@ -6,10 +6,13 @@ Welcome to the eCommerce Project! This application is designed to provide a seam
 Key features include:
 Product Management: Add, update, and delete products with ease. Organize items into categories and manage levels.
 Shopping Cart: Add items to the cart, view cart contents, and proceed to checkout.
-Images Based Order: Get verified images of the product while ordering.
+Images Based Order: Get verified images of the product while ordering.![Grami drawio](https://github.com/user-attachments/assets/7e996273-9a97-4be5-871c-a2635e387cd5)
+
 Order Processing: Handle customer orders efficiently with order tracking and status updates. 
 Payment Integration: Support for multiple payment methods, including credit/debit cards and digital wallets.
 Responsive Design: A modern, responsive interface that works well on both desktop and mobile devices.
+
+
 
 Getting Started:
 
