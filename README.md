@@ -1,4 +1,4 @@
-GRAMI ECommerce Project
+GRAMI Ecommerce Project
 
 Description
 Welcome to the eCommerce Project! This application is designed to provide a seamless online shopping experience.the project offers a robust set of features to manage products and process orders.
